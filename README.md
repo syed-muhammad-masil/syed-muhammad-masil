@@ -13,16 +13,7 @@
 🌱 Exploring modern JavaScript frameworks and backend technologies
 💡 Interested in building modern, responsive and scalable web applications
 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=syed-muhammad-masil&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syed-muhammad-masil&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
-
-</div>
-
-🛠️ Technologies & Skills
+🛠️  Currently Learning Technologies & Skills
 🎨 Frontend
 
 <p> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,typescript,tailwind" /> </p>
