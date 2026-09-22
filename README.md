@@ -1,9 +1,9 @@
 <div align="center">
 
-👋 Hi, I'm Syed Masil
+👋 Hi, I'm Syed Muhammad Masil
 💻 Full-Stack Web Developer | Modern Web Application Development
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Syed%20Masil&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Syed%20MuhammadMasil&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
 </div>
 
@@ -12,7 +12,7 @@
 🚀 Currently learning Modern Web Application Development
 🌱 Exploring modern JavaScript frameworks and backend technologies
 💡 Interested in building modern, responsive and scalable web applications
-📊 GitHub Stats
+📊 GitHub Stats <br>
 🛠️  Currently Learning Technologies & Skills
 🎨 Frontend
 
