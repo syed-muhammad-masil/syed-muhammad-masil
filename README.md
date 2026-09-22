@@ -16,24 +16,14 @@
 🛠️  Currently Learning Technologies & Skills
 🎨 Frontend
 
-<p> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,typescript,tailwind" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=html,css,js" /> </p>
 
-⚙️ Backend
+## 🎓 Certifications
 
-<p> <img src="https://skillicons.dev/icons?i=nodejs,express" /> </p>
-
-🗄️ Databases
-
-<p> <img src="https://skillicons.dev/icons?i=mongodb,postgresql" /> </p>
-
-🧰 Tools & Other Technologies
-
-<p> <img src="https://skillicons.dev/icons?i=docker,graphql" /> </p>
-
-🎓 Certifications
-Certificate	Institute	Year
-Add your certificate	Institute Name	2026
-Add your certificate	Institute Name	Year
+| Certificate | Institute | Year |
+|---|---|---|
+|Full Stack Foundation for Teens Python & Javascript |Saylani Mass IT Training (SMIT)| *2026* |
+<br>
 🤝 Connect With Me
 
 <div align="center">
