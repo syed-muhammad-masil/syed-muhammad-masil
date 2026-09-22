@@ -13,7 +13,7 @@
 🌱 Exploring modern JavaScript frameworks and backend technologies
 💡 Interested in building modern, responsive and scalable web applications
 📊 GitHub Stats <br>
-🛠️  Currently Learning Technologies & Skills
+🛠️  Currently Learning Technologies & Skills<br>
 🎨 Frontend
 
 <p> <img src="https://skillicons.dev/icons?i=html,css,js" /> </p>
