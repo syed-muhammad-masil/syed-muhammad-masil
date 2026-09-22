@@ -3,7 +3,7 @@
 👋 Hi, I'm Syed Muhammad Masil
 💻 Full-Stack Web Developer | Modern Web Application Development
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Syed%20MuhammadMasil&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Syed%20Muhammad%20Masil&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
 </div>
 
