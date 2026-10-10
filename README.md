@@ -12,7 +12,7 @@
 🚀 Currently learning Modern Web Application Development
 🌱 Exploring modern JavaScript frameworks and backend technologies
 💡 Interested in building modern, responsive and scalable web applications
-📊 GitHub Stats <br>
+<br>
 🛠️  Currently Learning Technologies & Skills<br>
 🎨 Frontend
 
